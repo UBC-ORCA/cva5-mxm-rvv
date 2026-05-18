@@ -1,6 +1,6 @@
-# CVA5PR Project Wiki
+# CVA5-MXM-RVV Project Wiki
 
-Top-level system wrapper for the CVA5 Processor.
+Top-level system wrapper for the MXM-RVV with Shared LSU project attached to a modified CVA5 Processor.
 
 
 ### Background Information
